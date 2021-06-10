@@ -1,5 +1,6 @@
 /* h1 {
     color: greenyellow;
+
 } */
 
 body {
@@ -21,3 +22,18 @@ p {
 
 
 /* .turma {} */
+
+}
+
+
+.fontelegal {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    background-color: darkslategray;
+}
+.cabecalho{
+
+
+
+}
+
